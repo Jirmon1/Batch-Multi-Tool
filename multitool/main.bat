@@ -10,13 +10,13 @@ call :banner
 for /f %%A in ('"prompt $H &echo on &for %%B in (1) do rem"') do set BS=%%A
 echo.
 echo.
-echo [38;2;255;255;0m        ╔═(1) Process Hacker 2[0m  
+echo [38;2;255;255;0m        ╔═(1) UNLOCK 2[0m  
 echo [38;2;255;255;0m        ║[0m  
-echo [38;2;255;255;0m        ╠══(2) Wireshark[0m  
+echo [38;2;255;255;0m        ╠══(2) LOCK[0m  
 echo [38;2;255;255;0m        ║[0m  
-echo [38;2;255;255;0m        ╠═══(3) Virtualbox[0m  
+echo [38;2;255;255;0m        ╠═══(3) TERM[0m  
 echo [38;2;255;255;0m        ║[0m  
-echo [38;2;255;255;0m        ╚╦═══(4) Putty[0m  
+echo [38;2;255;255;0m        ╚╦═══(4) UNTERM[0m  
 echo [38;2;255;255;0m         ║[0m  
 set /p input=.%BS% [38;2;255;255;0m        ╚══════^>[0m  
 if /I %input% EQU 1 start ph2.lnk
