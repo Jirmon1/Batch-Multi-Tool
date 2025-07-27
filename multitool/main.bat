@@ -40,11 +40,11 @@
 
 
 
-      echo Account sorte30 Mass Reported.
+      echo Account %user% Mass Reported.
 	  
       echo Chance Of Termination: 70%
 	  
-      echo Refresh Page Of sorte30 In 24 hours For Results.
+      echo Refresh Page Of %user% In 24 hours For Results.
 
 
 pause
@@ -53,7 +53,7 @@ pause
 
 
 
-echo 
+echo.
 
 
 
