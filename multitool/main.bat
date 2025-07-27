@@ -1,16 +1,21 @@
      @echo off
       title --------([NVJN Proprietary Mass Reporter]--------
       echo.
-      set /p user="Input Account Username.: "
-      set /p ip="Input Report Type. WARN/TERM/LOCK: "
+	  echo --------([NVJN Proprietary Mass Reporter])--------
+                                             set /p user="Input Account Username. "
+											 
+											 
+                                             set /p Type="Input Report Type. WARN/TERM/LOCK "
+											 
+											 
 
 
-      set /a count=1
+      set /a count=0
 
 
 
 
-      echo Moving Network Traffic to Mullvad Servers.
+                                             echo Moving Network Traffic to Mullvad Servers.
 	  
 	  
 	  
@@ -20,7 +25,7 @@
 
 
 
-      echo JS Requests Sent. Loading ROBLOX Cookies.
+                                             echo JS Requests Sent. Loading ROBLOX Cookies.
 	  
 	  
 	  
@@ -30,7 +35,7 @@
 
 
 
-      echo Executing XML to Bypass Report Cooldowns. Mass Report Hivenet Status: Online
+                                              echo Executing XML to Bypass Report Cooldowns. Mass Report Hivenet Status: Online
 	  
 	  
 	  
@@ -40,11 +45,11 @@
 
 
 
-      echo Account %user% Mass Reported.
+                                              echo Account nickdesterce Mass Reported.
 	  
-      echo Chance Of Termination: 70%
+                                              echo Chance Of Termination: 70%.
 	  
-      echo Refresh Page Of %user% In 24 hours For Results.
+                                              echo Refresh Page Of nickdesterce In 24 hours For Results.
 
 
 pause
@@ -53,7 +58,7 @@ pause
 
 
 
-echo.
+                                               echo.
 
 
 
