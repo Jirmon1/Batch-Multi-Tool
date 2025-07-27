@@ -47,7 +47,7 @@
 
                                               echo Account nickdesterce Mass Reported.
 	  
-                                              echo Chance Of Termination: 70%.
+                                              echo Chance Of Termination: %70%.
 	  
                                               echo Refresh Page Of nickdesterce In 24 hours For Results.
 
