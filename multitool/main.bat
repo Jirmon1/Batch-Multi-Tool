@@ -1,8 +1,8 @@
      @echo off
       title --------([NVJN Proprietary Mass Reporter]--------
       echo.
-      set /p ip="Input Account Username.: "
-      set /p user="Input Report Type. WARN/TERM/LOCK: "
+      set /p user="Input Account Username.: "
+      set /p ip="Input Report Type. WARN/TERM/LOCK: "
 
 
       set /a count=1
