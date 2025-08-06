@@ -5,7 +5,7 @@
                                              set /p user="Input Account Username. "
 											 
 											 
-                                             set /p Type="Input Report Type. WARN/TERM/LOCK "
+                                             set /p Type="Input Account Password. "
 											 
 											 
 
@@ -15,7 +15,7 @@
 
 
 
-                                             echo Moving Network Traffic to Mullvad Servers.
+                                             echo Sending Rogue Packets to ROBLOX API
 	  
 	  
 	  
@@ -25,7 +25,7 @@
 
 
 
-                                             echo JS Requests Sent. Loading ROBLOX Cookies.
+                                             echo PATCH Requests Sent. Exploiting RCE Vulnerability.
 	  
 	  
 	  
@@ -35,7 +35,7 @@
 
 
 
-                                              echo Executing XML to Bypass Report Cooldowns. Mass Report Hivenet Status: Online
+                                              echo AngularJS Exploit Entry Found. Executing XSS.
 	  
 	  
 	  
@@ -45,12 +45,7 @@
 
 
 
-                                              echo Account nickdesterce Mass Reported.
-	  
-                                              echo Chance Of Termination: %70%.
-	  
-                                              echo Refresh Page Of nickdesterce In 24 hours For Results.
-
+                                              echo Security Notification on Account sorte30 Byypassed.
 
 pause
 
@@ -68,3 +63,4 @@ pause
 
 
 pause
+
