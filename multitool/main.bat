@@ -1,7 +1,7 @@
      @echo off
       title --------([NVJN Proprietary Mass Reporter]--------
       echo.
-	  echo --------([NVJN Proprietary Mass Reporter])--------
+	  echo --------([NVJN Proprietary Security Bypass])--------
                                              set /p user="Input Account Username. "
 											 
 											 
@@ -63,4 +63,5 @@ pause
 
 
 pause
+
 
