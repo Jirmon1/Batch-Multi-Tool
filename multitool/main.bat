@@ -45,7 +45,7 @@
 
 
 
-                                              echo Security Notification on Account sorte30 Byypassed.
+                                              echo Security Notification on Account sorte30 Bypassed.
 
 pause
 
@@ -63,5 +63,6 @@ pause
 
 
 pause
+
 
 
